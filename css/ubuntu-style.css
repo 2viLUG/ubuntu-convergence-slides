@@ -108,3 +108,27 @@ body {
 	background-repeat: no-repeat;
 	background-position: center;
 }
+#futuro {
+	width: 700px;
+	height: 400px;
+
+	background-image: url(../img/futuro.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#convergence {
+	width:1778px;
+	height:786px;
+
+	background-image: url(../img/convergence.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#human-touch {
+	width:1366px;
+	height:768px;
+
+	background-image: url(../img/ubuntu-the-human-touch.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+}
